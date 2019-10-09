@@ -23,7 +23,7 @@ To get started using a persephony account, follow the instructions [here](https:
    | accountId              | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                                         |
    | authToken              | Authentication Token which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                               |
 
-3. Provide a value for the `queueuId` and `callId`. More about queues can be found [here](https://docs.persephony.com/reference/queues-1) and more about calls can be found [here](https://docs.persephony.com/reference/calls-1)
+3. Provide a value for the variables `queueuId` and `callId`. More about queues can be found [here](https://docs.persephony.com/reference/queues-1) and more about calls can be found [here](https://docs.persephony.com/reference/calls-1)
 
 ## Runnning the Tutorial
 
